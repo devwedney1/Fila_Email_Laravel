@@ -5,7 +5,7 @@
         </h2>
     </x-slot>
     
-    <form action="">
+    <form action="../../app/Models/User.php" method="POST">
         @csrf
         <div class="def">
             <div class="subject">

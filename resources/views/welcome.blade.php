@@ -878,10 +878,6 @@
                 Desde 2001
                 Fundada em 2001, a Universidade Patativa do Assaré – UPA, é uma organização não governamental sediada na cidade de Juazeiro do Norte, no Cariri cearense, que tem como missão atual contribuir para o desenvolvimento sustentável de comunidades urbanas e rurais de todo o País, como foco prioritário na formação humana e no exercício pleno da cidadania
             </p>
-
-            <div class="img_logo">
-                <img src="../../resources/views/components/application-mark.blade.php" alt="">
-            </div>
 </body>
 
 </html>
